@@ -47,10 +47,14 @@ library(lcpizza)
 
 ```{r}
 data(pizzas)
+
+pizzas
 ```
 
 ### Toppings data
 
 ```{r}
 data(toppings)
+
+toppings
 ```
