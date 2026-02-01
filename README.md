@@ -1,0 +1,46 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+# lcpizza <img src="man/figures/logo.png" align="right"/>
+
+<!-- badges: start -->
+
+<!-- badges: end -->
+
+**lcpizza** contains nutrition and local pricing data for core pizzas
+and toppings available at Little Caesars in Canada.
+
+## Installation
+
+The package can be installed from GitHub using:
+
+``` r
+# install.packages("pak")
+pak::pak("adamoshen/lcpizza")
+```
+
+If you don’t have {pak} and/or don’t want to use {pak}, you can also
+use:
+
+``` r
+# install.packages("remotes")
+remotes::install_github("adamoshen/lcpizza")
+```
+
+## Data examples
+
+``` r
+library(lcpizza)
+```
+
+### Pizzas data
+
+``` r
+data(pizzas)
+```
+
+### Toppings data
+
+``` r
+data(toppings)
+```
