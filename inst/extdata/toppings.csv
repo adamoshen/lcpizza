@@ -1,0 +1,35 @@
+﻿size,topping,calories,total_fat,sat_fat,trans_fat,cholesterol,sodium,total_carb,fibre,sugar,protein,vit_a,vit_c,calcium,iron
+medium,pepperoni,260,23,9,1,55,1140,1,0,1,11,2,2,2,4
+medium,pineapple,80,0,0,0,0,0,20,1,19,1,0,50,2,2
+medium,ham,80,2.5,1,0,35,910,2,0,1,13,0,2,0,4
+medium,mushrooms,10,0,0,0,0,0,2,0,1,1,0,0,0,2
+medium,bacon,280,26,9,0,65,990,2,0,1,9,0,0,2,2
+medium,green peppers,25,0,0,0,0,0,5,1,2,1,0,120,0,2
+medium,onions,25,0,0,0,0,0,6,1,2,1,0,8,2,0
+medium,sausage,230,20,7,0,40,720,1,0,0,9,0,0,2,4
+medium,chicken,80,1.5,0,0,40,490,1,1,0,17,0,0,2,2
+medium,red onions,25,0,0,0,0,0,6,1,3,1,0,8,2,0
+medium,black olives,90,8,1,0,0,540,5,2,0,1,6,2,6,15
+medium,green olives,70,5,1,0,0,1180,5,0,0,1,0,0,0,0
+medium,hot banana peppers,10,0,0,0,0,970,2,0,0,0,0,0,0,0
+medium,tomatoes,20,0,0,0,0,5,4,1,3,1,20,25,0,2
+medium,anchovies,50,2.5,0,0,15,1330,0,0,0,6,0,0,4,6
+medium,extra cheese,260,20,13,0,50,670,0,0,0,20,10,0,45,0
+medium,extra sauce,20,0,0,0,0,230,5,0,4,1,10,15,2,4
+large,pepperoni,260,23,9,1,55,1140,1,0,1,11,2,2,2,4
+large,pineapple,90,0,0,0,0,0,23,1,21,1,0,60,2,2
+large,ham,90,3,1,0,35,950,2,0,2,13,0,2,0,4
+large,mushrooms,10,0,0,0,0,0,2,0,1,1,0,0,0,2
+large,bacon,300,28,10,0,65,1030,2,0,1,9,0,0,2,2
+large,green peppers,25,0,0,0,0,0,5,1,2,1,2,130,0,2
+large,onions,30,0,0,0,0,0,7,1,2,1,0,8,2,0
+large,sausage,280,25,9,0,50,900,1,0,0,12,0,0,2,4
+large,chicken,80,1.5,0,0,40,470,1,1,0,16,0,0,2,2
+large,red onions,30,0,0,0,0,0,7,1,3,1,0,10,2,0
+large,black olives,90,8,1,0,0,580,5,3,0,1,6,2,6,15
+large,green olives,80,5,1,0,0,1250,5,0,0,1,0,0,0,0
+large,hot banana peppers,10,0,0,0,0,1000,2,2,0,0,0,35,6,0
+large,tomatoes,15,0,0,0,0,0,3,1,2,1,10,15,0,2
+large,anchovies,50,2.5,0,0,15,1330,0,0,0,6,0,0,4,6
+large,extra cheese,260,20,13,0,50,670,0,0,0,20,10,0,45,0
+large,extra sauce,20,0,0,0,0,230,5,0,4,1,10,15,2,4
