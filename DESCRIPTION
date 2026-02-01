@@ -6,6 +6,8 @@ Authors@R:
 Description: Nutrition and local pricing data for Little Caesars pizzas in
     Canada.
 License: MIT + file LICENSE
+URL: https://adamoshen.github.io/lcpizza, https://github.com/adamoshen/lcpizza
+BugReports: https://github.com/adamoshen/lcpizza/issues
 Depends: 
     R (>= 3.5)
 Imports: 

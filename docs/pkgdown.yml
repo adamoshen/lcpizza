@@ -1,0 +1,8 @@
+pandoc: 3.6.4
+pkgdown: 2.1.1
+pkgdown_sha: ~
+articles: {}
+last_built: 2026-02-01T04:12Z
+urls:
+  reference: https://adamoshen.github.io/lcpizza/reference
+  article: https://adamoshen.github.io/lcpizza/articles
