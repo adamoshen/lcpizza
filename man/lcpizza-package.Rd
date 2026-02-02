@@ -6,7 +6,18 @@
 \alias{lcpizza-package}
 \title{lcpizza: Little Caesars Pizza Data}
 \description{
-Data related to Little Caesars Pizza.
+\if{html}{\figure{logo.png}{options: style='float: right' alt='logo' width='120'}}
+
+Nutrition and local pricing data for Little Caesars pizzas in Canada.
+}
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://adamoshen.github.io/lcpizza}
+  \item \url{https://github.com/adamoshen/lcpizza}
+  \item Report bugs at \url{https://github.com/adamoshen/lcpizza/issues}
+}
+
 }
 \author{
 \strong{Maintainer}: Adam Shen \email{adamshen1@gmail.com}
