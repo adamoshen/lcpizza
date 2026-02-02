@@ -9,6 +9,7 @@ A \link[tibble:tibble-package]{tibble} with 34 rows and 16 columns:
 \describe{
 \item{size}{The size of the pizza.}
 \item{topping}{The topping.}
+\item{price}{Local pricing in Canadian dollars.}
 \item{calories}{Total calories.}
 \item{total_fat}{Total fat, in grams.}
 \item{sat_fat}{Saturated fat, in grams.}
@@ -32,7 +33,8 @@ A \link[tibble:tibble-package]{tibble} with 34 rows and 16 columns:
 toppings
 }
 \description{
-Nutritional information for core pizza toppings available at Little Caesars (Canada).
+Nutritional information and pricing for core pizza toppings available at Little Caesars (Canada).
+Prices of toppings are to be added on top of a medium/large cheese pizza base.
 }
 \details{
 Core toppings are defined as toppings where nutritional information exists and can be selected

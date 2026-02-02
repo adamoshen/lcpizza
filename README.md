@@ -63,20 +63,20 @@ pizzas
 data(toppings)
 
 toppings
-#> # A tibble: 34 × 16
-#>    size   topping       calories total_fat sat_fat trans_fat cholesterol sodium
-#>    <chr>  <chr>            <dbl>     <dbl>   <dbl>     <dbl>       <dbl>  <dbl>
-#>  1 medium pepperoni          260      23         9         1          55   1140
-#>  2 medium pineapple           80       0         0         0           0      0
-#>  3 medium ham                 80       2.5       1         0          35    910
-#>  4 medium mushrooms           10       0         0         0           0      0
-#>  5 medium bacon              280      26         9         0          65    990
-#>  6 medium green peppers       25       0         0         0           0      0
-#>  7 medium onions              25       0         0         0           0      0
-#>  8 medium sausage            230      20         7         0          40    720
-#>  9 medium chicken             80       1.5       0         0          40    490
-#> 10 medium red onions          25       0         0         0           0      0
-#> # ℹ 24 more rows
+#> # A tibble: 32 × 17
+#>    size   topping  price calories total_fat sat_fat trans_fat cholesterol sodium
+#>    <chr>  <chr>    <dbl>    <dbl>     <dbl>   <dbl>     <dbl>       <dbl>  <dbl>
+#>  1 medium peppero…   2        260      23         9         1          55   1140
+#>  2 medium pineapp…   2         80       0         0         0           0      0
+#>  3 medium ham        2         80       2.5       1         0          35    910
+#>  4 medium mushroo…   2         10       0         0         0           0      0
+#>  5 medium bacon      2        280      26         9         0          65    990
+#>  6 medium green p…   2         25       0         0         0           0      0
+#>  7 medium onions     2         25       0         0         0           0      0
+#>  8 medium sausage    2        230      20         7         0          40    720
+#>  9 medium chicken    2.5       80       1.5       0         0          40    490
+#> 10 medium red oni…   2         25       0         0         0           0      0
+#> # ℹ 22 more rows
 #> # ℹ 8 more variables: total_carb <dbl>, fibre <dbl>, sugar <dbl>,
 #> #   protein <dbl>, vit_a <dbl>, vit_c <dbl>, calcium <dbl>, iron <dbl>
 ```
